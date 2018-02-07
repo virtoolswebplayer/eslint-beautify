@@ -1,0 +1,12 @@
+{
+  "name": "eslint-beautify",
+  "version": "1.0.1",
+  "description": "更加友好的显示eslint规则信息",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslint-friendly"
+  ],
+  "author": "gaoletian",
+  "license": "ISC"
+}
